@@ -1,8 +1,10 @@
 .container {
     background-color: #ffffff;
+    border-radius: 5px;
+    margins: 10px;
 }
 
 .bod {
-    background-color: #caaaff;
+    color: #caaaff;
     font-color: #000000;
 }
