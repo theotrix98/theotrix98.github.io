@@ -1,7 +1,11 @@
+@font-face {
+	font-family: 'basiic';
+	src: url(https://files.catbox.moe/jtvuhg.ttf);
+
 body {
   background: #0c5a72;
   color: white;
-  font-family: sans-serif;
+  font-family: basiic;
   font-size: 0.875em;
   }
   
