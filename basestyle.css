@@ -3,6 +3,7 @@ body {
 }
 
 p {
-  color: white;
   font-family: "Gontserrat";
+  text-align: center;
+  color: white;
 }
